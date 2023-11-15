@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "fg"
-  description: "fg"
+  name: "drone"
+  description: "drone"
   annotations:
     github.com/project-slug: anpeni/anpeni
     backstage.io/techdocs-ref: dir:.
